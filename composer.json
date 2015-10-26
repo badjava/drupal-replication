@@ -1,5 +1,5 @@
 {
-  "name": "relaxedws/replication",
+  "name": "drupal/replication",
   "description": "Provides Drush commands for CouchDB replication manipulation.",
   "type": "package",
   "homepage": "http://drupal.org/project/replication",
